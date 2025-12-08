@@ -1,7 +1,7 @@
 <!-- 💫 Brian He - GitHub README 💫 -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://shopifywizard.vercel.app/" target="_blank">Shopify Wizard</a>
+  Hi, I'm <a href="https://shopifywizard.vercel.app/" target="_blank">Brian He</a>
 </h1>
 
 <h3 align="center">
@@ -50,7 +50,8 @@ Feel free to email me at [brianhe.work@hotmail.com](mailto:brianhe.work@hotmail.
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhii-chernenko&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaster0099&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeMaster0099&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
