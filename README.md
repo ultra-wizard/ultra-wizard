@@ -1,7 +1,7 @@
-<!-- 💫 Brian He - GitHub README 💫 -->
+<!-- 💫 Ultra Wizard - GitHub README 💫 -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://shopifywizard.vercel.app/" target="_blank">Brian He</a>
+  Hi, I'm <a href="https://ultrawizard.vercel.app/" target="_blank">Ultra Wizard</a>
 </h1>
 
 <h3 align="center">
