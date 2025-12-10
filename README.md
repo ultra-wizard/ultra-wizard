@@ -43,7 +43,7 @@
 </p>
 
 📩 **Got feedback or collaboration ideas?**  
-Feel free to email me at [brianhe.work@hotmail.com](mailto:brianhe.work@hotmail.com)
+Feel free to email me at [ultra.wizard.work@hotmail.com](mailto:ultra.wizardwork@hotmail.com)
 
 ---
 
