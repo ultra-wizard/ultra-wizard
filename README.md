@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Creative Shopify & Frontend Developer | 💡 Lifelong Learner | 🌍 Passionate about Building Meaningful Products
+  🚀 Creative Frontend & Shopify Developer | 💡 Lifelong Learner | 🌍 Passionate about Building Meaningful Products
 </h3>
 
 <p align="center">
