@@ -51,7 +51,7 @@ Feel free to email me at [ultra.wizard@hotmail.com](mailto:ultra.wizard@hotmail.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=serhii-chernenko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serhii-chernenko&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ultra-wizard&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
