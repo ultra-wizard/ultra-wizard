@@ -38,8 +38,11 @@
   <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://app.patika.dev/ezgiEH">
-    <img src="https://img.shields.io/badge/Patika.dev-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://dev.to/ultrawizard/">
+    <img src="https://img.shields.io/badge/dev.to-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://gusher.co/people/ultrawizard">
+    <img src="https://img.shields.io/badge/gusher.co-AF6FA0?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
