@@ -5,28 +5,29 @@
 </h1>
 
 <h3 align="center">
-  🚀 Creative Frontend & Shopify Developer | 💡 Lifelong Learner | 🌍 Passionate about Building Meaningful Products
+  🚀 Frontend Developer | 💡 Lifelong Learner | 🌍 Building Modern Web Experiences
 </h3>
 
 <p align="center">
-  <em>“Code is my brush, and the web is my canvas.”</em>
+  <em>"Code is my brush, and the web is my canvas."</em>
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 👩🏽‍💻 I’m a Shopify developer specializing in **custom themes, app integrations, and seamless e-commerce experiences**.
-- 🧠 Continuously learning new Shopify features, Liquid, and modern web technologies.
-- 🎨 Dedicated to **UI/UX excellence, interactive storefronts**, and **robust code architecture**.
-- ☕ Fueled by coffee and driven by a passion for innovative online retail.
+- 👩🏽‍💻 I'm a frontend developer passionate about crafting **responsive, performant, and user-centric web applications**.
+- 🛠️ Specialized in modern JavaScript frameworks, with extensive experience in **Shopify development** including custom themes, app integrations, and e-commerce solutions.
+- 🧠 Continuously learning and adapting to new technologies, best practices, and emerging trends in frontend development.
+- 🎨 Dedicated to **clean code architecture, exceptional UI/UX**, and creating seamless digital experiences that users love.
+- ☕ Fueled by coffee and driven by a passion for building meaningful, scalable web solutions.
 
 ---
 
 ### 🌈 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,svg,react,vue,angular,nodejs,ruby,php,sentry,git,bitbucket,stackoverflow,figma,github,vercel,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,angular,nextjs,svelte,redux,tailwind,sass,bootstrap,webpack,vite,threejs,graphql,svg,nodejs,ruby,php,sentry,git,github,vercel,docker,vscode,figma&theme=dark" />
 </p>
 
 ---
