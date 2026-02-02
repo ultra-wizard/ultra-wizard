@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Frontend Developer | 💡 Lifelong Learner | 🌍 Building Modern Web Experiences
+  🚀 Fullstack Developer | 🛒 Shopify Expert | 💡 Lifelong Learner
 </h3>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ### 🌟 About Me
 
-- 👩🏽‍💻 I'm a frontend developer passionate about crafting **responsive, performant, and user-centric web applications**.
-- 🛠️ Specialized in modern JavaScript frameworks, with extensive experience in **Shopify development** including custom themes, app integrations, and e-commerce solutions.
-- 🧠 Continuously learning and adapting to new technologies, best practices, and emerging trends in frontend development.
-- 🎨 Dedicated to **clean code architecture, exceptional UI/UX**, and creating seamless digital experiences that users love.
+- 👩🏽‍💻 I'm a **fullstack developer and Shopify expert** focused on building fast, scalable, and conversion-driven web experiences.
+- 🛠️ I craft **custom Shopify themes, sections, and apps**, handle complex app integrations, and build headless storefronts with **Next.js** and modern tooling.
+- 🧠 Comfortable across the stack: **React/Next.js, TypeScript, Tailwind CSS, Node.js/Express, REST & GraphQL APIs, and relational/NoSQL databases**.
+- 🎨 Dedicated to **clean architecture, exceptional UI/UX, and accessibility**, turning ideas into polished digital products.
 - ☕ Fueled by coffee and driven by a passion for building meaningful, scalable web solutions.
 
 ---
 
-### 🌈 Tech Stack & Tools
+### 🌈 Fullstack & Shopify Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,angular,nextjs,svelte,redux,tailwind,sass,bootstrap,webpack,vite,threejs,graphql,svg,nodejs,ruby,php,sentry,git,github,vercel,docker,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,angular,nextjs,svelte,redux,tailwind,sass,bootstrap,webpack,vite,threejs,graphql,svg,nodejs,ruby,php,sentry,git,github,vercel,docker,vscode,figma,express,mongodb,postgres&theme=dark" />
 </p>
 
 ---
