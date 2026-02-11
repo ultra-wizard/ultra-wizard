@@ -35,9 +35,6 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://dev.to/ultrawizard/">
     <img src="https://img.shields.io/badge/dev.to-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
